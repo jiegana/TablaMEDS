@@ -1,0 +1,5 @@
+.streamlit/
+API_Key.txt.DS_Store
+__pycache__/
+API_Key.txt
+.DS_Store
